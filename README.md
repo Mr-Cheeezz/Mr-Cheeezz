@@ -6,11 +6,6 @@
 
 <br />
 
-
-
-<p align="center" style="font-size: 34px;">
-  <b>I am currently listening to</b>
-  <br />
-  <img height="120" src="https://nowplaying.mrcheeezz.wtf/api?theme=dark&scan=true" style="border-radius: 7px" />
-</p>
+<h3>I am currently listening to: </h3>
+<img height="120" src="https://nowplaying.mrcheeezz.wtf/api?theme=dark&scan=true" style="border-radius: 7px" />
 
