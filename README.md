@@ -9,8 +9,8 @@
 
 
 <p align="center" style="font-size: 34px;">
-  strong>I am currently listening to</strong>
+  <b>I am currently listening to</b>
   <br />
-  <img src="https://nowplaying.mrcheeezz.wtf/api?theme=dark&scan=true" />
+  <img height="120" src="https://nowplaying.mrcheeezz.wtf/api?theme=dark&scan=true" />
 </p>
 
