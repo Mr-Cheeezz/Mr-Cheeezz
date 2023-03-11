@@ -6,8 +6,11 @@
 
 <br />
 
-<p align="center" style="font-size: 30px;">
-  <strong>Visitor Count</strong>
+
+
+<p align="center" style="font-size: 34px;">
+  strong>I am currently listening to</strong>
   <br />
-  <img src="https://profile-counter.glitch.me/mr-cheeezz/count.svg" />
+  <img src="https://nowplaying.mrcheeezz.wtf/api?theme=dark&scan=true" />
 </p>
+
